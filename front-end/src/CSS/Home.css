@@ -1,0 +1,24 @@
+.homepage {
+    position: relative;
+}
+#bg-circle-profile {
+    position: absolute;
+    top: 80%;
+    left: 55%;
+    padding: 0;
+    width: 600px;
+    height: 600px;
+    background: rgb(255, 255, 255);
+    border-radius: 50%;
+    filter: drop-shadow(0 .3em .2em #605f4d71);
+
+}
+
+h1{
+    color: #3813A0;
+    display: flex;
+}
+
+h3 {
+    color: #3813A0;
+}

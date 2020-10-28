@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    display: flex;
+    background-color: #F0EFEC;
+    box-shadow: 0 0 .4em 0 #605f4d71;
+}
+
+li {
+
+    list-style: none;
+    padding-left: 1.5em;
+    margin: 1.4em;
+}
