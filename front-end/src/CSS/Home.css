@@ -10,15 +10,13 @@
     height: 600px;
     background: rgb(255, 255, 255);
     border-radius: 50%;
-    filter: drop-shadow(0 .3em .2em #605f4d71);
 
 }
 
-h1{
-    color: #3813A0;
+.homepage{
     display: flex;
 }
 
-h3 {
+.text {
     color: #3813A0;
 }
