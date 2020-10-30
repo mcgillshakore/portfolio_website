@@ -1,22 +1,7 @@
 .homepage {
     position: relative;
 }
-#bg-circle-profile {
-    position: absolute;
-    top: 80%;
-    left: 55%;
-    padding: 0;
-    width: 600px;
-    height: 600px;
-    background: rgb(255, 255, 255);
-    border-radius: 50%;
 
-}
-
-.homepage{
-    display: flex;
-}
-
-.text {
-    color: #3813A0;
+.text{
+    color: rgb(81, 17, 141);
 }
